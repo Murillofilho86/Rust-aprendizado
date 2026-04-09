@@ -1,3 +1,0 @@
-info: `cargo` is unavailable for the active toolchain
-info: falling back to "/home/garoupa/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo"
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
